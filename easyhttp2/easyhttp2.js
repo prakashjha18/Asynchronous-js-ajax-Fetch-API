@@ -1,12 +1,4 @@
-/**
- * EasyHTTP Library
- * Library for making HTTP requests
- *
- * @version 2.0.0
- * @author  Brad Traversy
- * @license MIT
- *
- **/
+
 
  class EasyHTTP {
    
